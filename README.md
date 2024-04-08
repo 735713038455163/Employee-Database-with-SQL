@@ -45,13 +45,13 @@ Running two additional unique queries on the data to get the count of those reti
 
 - Pewlett Hackard has 510,000 employees and 267,552 roles will need to be filled as a result of the retirement impact.  
 
-![retiring_titles](https://github.com/735713038455163/Employee-Database-with-SQL/blob/main/Pewlett-Hackard-Analysis/retiring_titles.PNG)
-![retiring_count](https://github.com/735713038455163/Employee-Database-with-SQL/blob/main/Pewlett-Hackard-Analysis/retiring_count.PNG)
+![retiring_titles](https://github.com/735713038455163/Employee-Database-with-SQL/blob/master/Pewlett-Hackard-Analysis/retiring_titles.PNG)
+![retiring_count](https://github.com/735713038455163/Employee-Database-with-SQL/blob/master/Pewlett-Hackard-Analysis/retiring_count.PNG)
 
 - There are not enough qualified employees in the departments to fill them as their are only 1549 eligible for mentorship.   
 
-![mentorship_catagories](https://github.com/735713038455163/Employee-Database-with-SQL/blob/main/Pewlett-Hackard-Analysis/mentorship%20catagories.PNG)
-![mentorship count](https://github.com/735713038455163/Employee-Database-with-SQL/blob/main/Pewlett-Hackard-Analysis/mentorship%20count.PNG)
+![mentorship_catagories](https://github.com/735713038455163/Employee-Database-with-SQL/blob/master/Pewlett-Hackard-Analysis/mentorship%20catagories.PNG)
+![mentorship count](https://github.com/735713038455163/Employee-Database-with-SQL/blob/master/Pewlett-Hackard-Analysis/mentorship%20count.PNG)
 
 Pewlett hackard will be losing qualified trained employees without enough internal staff to replace them. 
 Pewlett should consider downsizing or hiring qualified staff externally for replacement. 
@@ -62,4 +62,4 @@ Additional queries can be ran to determine qualification for mentorship not base
 
 The module seven challenge required to verify the .csv files, especially to check which titles was in fact be the most recent. To do this you compared the mentorship image to your query data output. For each employee that didn't match a where function set to equal the employee number in question, one can confirm that the data tables exported where in fact correct.   
 
-![Where](https://github.com/735713038455163/Employee-Database-with-SQL/blob/main/Pewlett-Hackard-Analysis/Where.PNG)
+![Where](https://github.com/735713038455163/Employee-Database-with-SQL/blob/master/Pewlett-Hackard-Analysis/Where.PNG)
